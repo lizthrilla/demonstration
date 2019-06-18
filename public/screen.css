@@ -10,3 +10,22 @@ body {
   margin: 0;
   min-height: 100%;
 }
+	
+h1 {
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+  font-weight: 700;
+}
+ 
+p.redText {
+  color: red;
+}
+
+#smallerText {
+  font-size: 10px;
+}
+
+#whatever {
+  font-size: 30px;
+}
